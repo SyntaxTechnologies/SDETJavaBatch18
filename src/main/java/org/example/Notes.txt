@@ -1,0 +1,50 @@
+What are we?
+    We are Automation Engineers.
+What do Automation Engineers do?
+    They are communicate with the computer to test software. They
+    use some kind of programming language write down all the
+    instructions using that language and feed those in a
+    computer reads the instructions and performs testing.
+What is java programing language?
+    It is just like any Human language such as English. Only difference is we
+    use it to talk to a computer. Just like Human languages(English,Chinese)
+    Java also have rules, grammar and vocabulary.
+What is a project in intellij?
+    It's just a folder that is going to hold our codes.
+Steps to create a folder:
+    1) Go to Top left corner of InteliJ  click where
+    you see SD.
+    2) Click on "new Project"
+    3) A new pop will appear give the name for the project
+    and click create
+    4) A new pop asking new or same window will appear
+    select same window.
+ Steps to create a new class:
+    1) Right click on src/org.example
+    2) Click on new->JavaClass
+    3) Give name to the class and hit enter.
+ Rules
+ 1) No spaces are allowed in the names of the classes or packages.
+Variables:
+    Are like storage containers. we can store data inside them which we can
+    reuse later.
+
+DataTypes:
+    There are 8 primitive data types in java
+    Used For storing whole numbers like 12,4565.78412000
+    byte
+    short
+    int
+    long
+    Used for storing decimals 45.2 0.05 -.546
+    float
+    double
+    Used for storing only either a true or false
+    boolean
+    Used to store only one character at a time.
+    char
+ Rules about Variables:
+    1) we cant create variables without data type.
+    2) We can only store the type of data in a box which the datatype allows.
+    3) Duplicate variables are not allowed.
+    4) We can't use a variable if we have not stored something inside it.
