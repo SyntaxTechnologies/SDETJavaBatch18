@@ -1,4 +1,4 @@
-package org.example;
+package org.class1;
 
 public class E2PrintStatement {
     //Every word of the class name should be capital

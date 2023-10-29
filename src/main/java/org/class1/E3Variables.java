@@ -1,4 +1,4 @@
-package org.example;
+package org.class1;
 
 public class E3Variables {
 

@@ -1,0 +1,7 @@
+What is String concatenation?
+    It is the process of combining two or more strings together.
+
+Rules:
+    1) We can't use a variable if we have not created it first.
+    2) Java is case-sensitive meaning for java fname, Fname, fName
+    are all different.

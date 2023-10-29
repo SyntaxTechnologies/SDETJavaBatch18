@@ -20,7 +20,7 @@ Steps to create a folder:
     4) A new pop asking new or same window will appear
     select same window.
  Steps to create a new class:
-    1) Right click on src/org.example
+    1) Right click on src/org.class1
     2) Click on new->JavaClass
     3) Give name to the class and hit enter.
  Rules

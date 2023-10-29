@@ -1,4 +1,4 @@
-package org.example;
+package org.class1;
 
 public class T2SyntaxProgrammer {
     public static void main(String[] args) {
