@@ -5,3 +5,14 @@ Rules:
     1) We can't use a variable if we have not created it first.
     2) Java is case-sensitive meaning for java fname, Fname, fName
     are all different.
+================================================
+Commands to print things on the console.
+System.out.println(10) is going to print 10 on the console.
+System.out.print(10) it prints everything on the same line.
+Variables:
+    are containers which can hold values for us. There are 8
+    basic types of variables called as primitive data types.
+    byte, short, int, long (Used to store whole numbers 10,500,-90)
+    float, double (Used to store numbers with decimal points 5.4 ,0.2)
+    char (Used to store single characters '#','F','+')
+    boolean (Used to store true or false)

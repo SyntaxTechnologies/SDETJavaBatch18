@@ -5,7 +5,7 @@ public class E17RelationalOp {
 
         String a="James";
         String b="John";
-        //System.out.println(a>b);
-       // System.out.println(true>false);
+        //System.out.println(a>b); // not allowed
+       // System.out.println(true>false); // not allowed
     }
 }

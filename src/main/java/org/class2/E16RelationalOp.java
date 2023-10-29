@@ -7,7 +7,7 @@ public class E16RelationalOp {
         //is 2 greater than 15? false
         System.out.println(2>15);
 
-        boolean isItTrueOrFalse=45>50;
-        System.out.println(isItTrueOrFalse);
+        boolean is=45>50;
+        System.out.println(is);
     }
 }
