@@ -1,0 +1,34 @@
+Why are we here?
+    We are here to be automation engineer.
+what do Automation engineers do?
+    They write code which test software applications like
+    Amazon.com facebook.com etc. To save time.
+To Automate the testing what do we need?
+    WE need to write instructions in a language that computer can
+    understand. Such as Java.
+ How we can learn java effectively?
+    Practice Practice Practice.
+Variables:
+    Variables are containers that we use to store information.
+    There are 8 basic types of variables which are called
+    primitives.
+
+    byte
+    short
+    int (Most widely used type)
+    long
+
+    float
+    double(Most widely used type)
+    char
+    boolean(Heavily used to write logic)
+    We have non-primitive data type String.
+
+Arithmetic Operators(+-*/%):
+    These are symbols in java that we use to perform addition,
+    subtraction, multiplication, division and modulus.
+ShortHandOperators:
+    These are same above operators but are a shorter way of doing
+    above calculations
+    += -+ *= /= %=
+
