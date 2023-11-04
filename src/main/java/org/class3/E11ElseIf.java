@@ -16,7 +16,7 @@ public class E11ElseIf {
         } else if(day==5){
             System.out.println("Friday");
         }else if(day==6){
-            System.out.println("Satruday");
+            System.out.println("Saturday");
         }else if(day==7){
             System.out.println("Sunday");
         }else{
