@@ -27,3 +27,24 @@ Why we need type casting?
     we specify destination data type.
     double box1=12.3;
     int box2= (int)box1;
+Relational Operators:
+    Relational operators help us compare things. They return the answer
+    in the form of a boolean true or false.
+    > greater than
+    < less than
+    == equal to
+    != not equal to
+    >= greater than or equal to
+    <= less than or equal to
+Example
+    10>5  true
+    5>7  false
+    5<10 true
+    12<10 false
+    13==11 false
+    15!=15 false
+    10!=12 true
+    1>=2 false or false -> false
+    2>=2  true or false -> true
+    10<=10 true or false -> true
+    5<=8  true or false true
