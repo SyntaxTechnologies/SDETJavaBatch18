@@ -1,0 +1,29 @@
+What is Type Casting:
+    Type casting is changing the datatype of data.
+    data types from small to large.
+    byte
+    short
+    int
+    long
+    float
+    double.
+    There are two types of type casting.
+    Automatic/widening/implicit
+        when we move from smaller boxes to large boxes it is
+        called automatic/widening/implicit.
+    Manual/Narrowing/explicit:
+        When we move from a larger box to a smaller box.
+Why we need type casting?
+    1) Sometimes we might only be interested in whole numbers
+    and want to ignore the decimal parts.
+    2) When multiple developers work on the same project
+    they might use different data types, and
+    we might have to convert
+    these before we merge their code.
+ What is the syntax:
+    No syntax when we move from smaller to larger box simply assign
+    the values and conversion will happen.
+    When we move from larger to smaller box we need to use () inside them,
+    we specify destination data type.
+    double box1=12.3;
+    int box2= (int)box1;
