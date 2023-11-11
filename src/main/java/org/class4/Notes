@@ -1,0 +1,15 @@
+Nested If Else condition:
+    Nested if conditions one condition inside another one.
+Why we need it?
+    In real life many decisions are dependent on each other.
+    if outer condition is not met it does not make sense to
+    proceed with in the inner conditions.
+    For example before we can place an order on a website
+    we first want to make sure
+    1)User is logged-in
+    2) User has selected some products
+    3) Products are available in inventory
+    4) User selects a valid payment method
+    5) User has enough balance.
+    6) If all above conditions are met then only we want to
+    place an order.
