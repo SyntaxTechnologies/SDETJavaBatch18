@@ -1,0 +1,27 @@
+Logical operators:
+    Logical operators are used to combine multiple conditions.
+    This is the third set of operators(Symbols) that we are
+    discussing now. We have already discussed Arithmetic and
+    relational operators. These are the symbols that we use for
+    logical operators in java (||,&&,!).
+Not(!):
+    Not Operator is going to reverse the condition. if condition
+    is true its gonna make it false and if condition is false
+    its gonna make it true.
+Why should we use NOT !:
+    When we have an un even set we can use the NOT! to
+    simplify our if conditions.
+Logical OR(||) operator:
+    When we have to combine multiple conditions in such a way
+    that as soon as one condition becomes true the overall
+    result should be true we can use the logical OR operator.
+Logical AND(&&) Operator:
+    When we have to combine multiple conditions in such as
+    way that as soon as one conditions becomes false overall
+    result is false. it only returns true when all the conditions
+    are true.
+Switch statements:
+    Switch statements are basically same as else if statements
+    but they give us better performance but it is also very limited
+
+
