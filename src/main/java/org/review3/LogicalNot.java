@@ -18,6 +18,5 @@ public class LogicalNot {
         }
 
         System.out.println("Clicking on Submit Payment");
-
     }
 }
