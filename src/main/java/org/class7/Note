@@ -17,7 +17,14 @@ Array:
     that is assigned to every item we store in an
     array.
 Syntax:
+    There are two ways of creating an array
+    create and fill at the same time or create
+    an empty array and use a loop or something to
+    fill it later on
     DataType[] nameOfTheArray={item1,item2,item3..}
     for storing the names
     String[] names={"Sino","Naso","Kendi"};
     int [] numbers={10,12,50}
+    char [] genders={'M','F','U'};
+    boolean [] conds={false,true,true,true,false}
+    int [] numbers2=new int[10000]
