@@ -35,7 +35,7 @@ public class DoWhileLoop {
         }while(i<=10);
 
         int a=2;
-        
+
         do {
             if (a%2==0) {
                 System.out.print(a + " ");
