@@ -1,0 +1,21 @@
+2D Arrays:
+    2D arrays are simply multiple 1D arrays. We can also think
+    about 2D arrays as a matrix of numbers.
+ Why we need it?
+    We can use the 2D arrays to store the data which is
+    present in the form of rows and columns.
+ Syntax:
+    dataType[][] matrix={
+    {item,item,item,item},
+    {item,item,item,item},
+    {item,item,item,item}
+    }
+
+    int [][] matrix={
+    {1,5,8,90},
+    {10,55,80,90},
+    {1,6,80,95},
+    }
+ Second way of creating the array
+    datatype [][] matrix=new datatype[5][3];
+    int[][] matrix=new int[5][3];
