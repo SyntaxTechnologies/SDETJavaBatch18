@@ -20,7 +20,7 @@ public class E6Arrays {
         }
         // If you just want to print the items in a row from array we can use this.
         System.out.println(Arrays.toString(students));
-        //
+        // 8:52
 
     }
 }

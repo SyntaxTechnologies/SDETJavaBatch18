@@ -12,3 +12,14 @@ Limitations of Enhanced for Loop:
     1)We can't skip items.
     2)We can't go in backward direction.
     3)We can't update the item in the array.
+
+2D Arrays:
+    2D array is a collection of multiple 1D arrays. For 2D arrays we write two [][].
+Why should we learn about 2D:
+    2D arrays help us store the data in the form of tables like storing and manipulating.
+    The data from Excel files.
+
+
+Shortcuts:
+1)Iter to write an enhanced for loop
+2) fori for a normal for loop.
