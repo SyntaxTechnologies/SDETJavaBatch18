@@ -11,5 +11,6 @@ public class E9StringDemo {
         String str2="Java is Fun";
         System.out.println(str2.substring(0,4));
         System.out.println(str2.substring(5,7));
+        //Break till 1:49
     }
 }
