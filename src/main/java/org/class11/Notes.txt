@@ -1,0 +1,5 @@
+String Class:
+    The Most widely used class in java and almost
+    every other programming language. Most of the
+    information inside a computer is stored and
+    processed in the form of text.
