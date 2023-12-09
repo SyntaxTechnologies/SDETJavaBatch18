@@ -35,3 +35,15 @@ Tasks:
     Create a static method with int return type call it dValue which takes a number as input
     multiples it by 2 and returns the value.
 
+Access Modifiers:
+      Access modifiers in java help us the control who can access what. There are 4 access
+      levels and we use three keywords to control these levels. private, default, protected and public.
+Private:
+    Is the most restricted one when used with a variable or method those can't be accessed outside of that class.
+
+Important note:
+    1) 99% of the methods are public.
+    2) 99% of the instance fields are created as private.
+    3) 99% of static fields are public.
+    4) 99% of the time class are also public
+
