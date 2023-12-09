@@ -1,0 +1,22 @@
+Types Of variables:
+    There are three types of variables in java
+    with respect to scope/visibility/accessibility
+    1) local 2) instance 3) static.
+Local Variable:
+    Local variables are the variables which are defined inside
+    the block of code like if-else statement,loop,switch-statement
+    methods. They can only be accessed with-in that block of code.
+UpSide:
+    They occupy the memory for least amount of time inside your computer.
+    You should always try to go with local variables.
+DownSide:
+    They can only be accessed with-in the same block where they are created.
+
+Instance Variables:
+    The variables which are defined inside a class but outside a block of code
+    like method,if-else statement,loop,switch etc., are called as instance variables.
+    They can be accessed anywhere in the class except static methods.
+Upside:
+    They can be accessed anywhere inside a class other than static methods.
+DownSide:
+    They occupy the memory for longer as compared to a local variable.
