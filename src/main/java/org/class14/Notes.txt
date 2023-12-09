@@ -20,3 +20,18 @@ Upside:
     They can be accessed anywhere inside a class other than static methods.
 DownSide:
     They occupy the memory for longer as compared to a local variable.
+
+static Variables:
+    Static variables are created using static keyword they are also created outside of
+    blocks of code like methods,loops etc.
+UpSide:
+    we can save a lot of space because for static only one memory location is used
+    for all the object.
+
+Downside:
+    It occupies the memory for longest.
+
+Tasks:
+    Create a static method with int return type call it dValue which takes a number as input
+    multiples it by 2 and returns the value.
+
