@@ -1,0 +1,4 @@
+Constructor:
+    Constructor in java a piece of code
+    that helps us build the object of a
+    class easily.
