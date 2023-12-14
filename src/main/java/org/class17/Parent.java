@@ -1,12 +1,23 @@
 package org.class17;
 
-public class Parent {
+class GrandParent{
+    GrandParent(){
+        System.out.println("Granpa");
+    }
+}
+
+public class Parent extends GrandParent {
+    Parent(){
+        System.out.println("Parent is born");
+    }
     String name="israel";
 
 }
 class Child extends Parent{
 
-
+    Child(){
+        System.out.println("Child is Born");
+    }
     void print(){
 
         System.out.println(name);
