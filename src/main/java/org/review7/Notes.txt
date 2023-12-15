@@ -20,3 +20,10 @@ loops
 arrays
 String methods
 Methods in general
+
+How do we know when we should create a static variable:
+    Whenever we want to store something that is universals(Constants) and
+    it does usually change we can safely go and create a static variable for
+    that. Like value of PI value of Gravity  Value of E.
+How do we know when we create static methods?
+    When our methods don't require instance fields create them as static.

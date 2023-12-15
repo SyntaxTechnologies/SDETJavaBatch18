@@ -18,5 +18,6 @@ public class E2TypesOfVariables {
         }
 
         double weight=23;
+        // break till 8:53
     }
 }
