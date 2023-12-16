@@ -1,6 +1,6 @@
 package org.class18;
 
-public class Parent {
+public  class Parent {
 
     void marry(){
         System.out.println("Marry the girl that we have selected for you");
