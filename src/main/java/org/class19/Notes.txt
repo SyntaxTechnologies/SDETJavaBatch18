@@ -1,0 +1,7 @@
+Type casting in object:
+    Converting the datatype of data. There are two types of
+    type casting upcasting and down-casting.
+
+
+
+PolyMorphism in java:
