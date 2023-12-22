@@ -8,7 +8,7 @@ public class Doctor {
     int yearsOfExperience;
     private double salary;
 
-    Doctor(String firstName, String lastName, String speciality, int yearsOfExperience){
+    public Doctor(String firstName, String lastName, String speciality, int yearsOfExperience){
         this.firstName=firstName;
         this.lastName=lastName;
         this.speciality=speciality;
@@ -35,10 +35,9 @@ public class Doctor {
 
     void checkVitals(String patient){
         System.out.println(firstName+" "+lastName+" checks vitals on "+patient);
-        patient.trim();
     }
 
-    void prescribeMedication(String medication){
+    protected void prescribeMedication(String medication){
         System.out.println(firstName+" "+lastName+" prescribed "+medication);
     }
 
