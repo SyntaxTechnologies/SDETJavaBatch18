@@ -2,18 +2,34 @@ package org.class21;
 
 public  abstract class Animal {
 
-   public abstract void eat();
+    private String name;
+    private String color;
+    static int noOfLegs=4;
+    abstract void eat();
 
+    public Animal(String name,String color){
+        this.name=name;
+        this.color=color;
+    }
     public  void sleep(){
         System.out.println("Animals Sleep");
     }
 
     public abstract void speak();
+
+   // public abstract String print(String str);
+    public void printInfo(){
+        System.out.println(name+" "+" "+color);
+    }
 }
 
  class Dog extends Animal{
 
-    @Override
+     public Dog(String name, String color) {
+         super(name, color);
+     }
+
+     @Override
     public void eat() {
         System.out.println("Dogs like to eat meat");
     }
@@ -24,6 +40,10 @@ public  abstract class Animal {
 }
 
 class Cat extends Animal{
+
+    public Cat(String name, String color) {
+        super(name, color);
+    }
 
     @Override
     public void eat() {

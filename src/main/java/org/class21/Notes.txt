@@ -9,3 +9,8 @@ Why Should we create abstract methods?
     2) It acts as a template when we create a method as
     abstract every child must provide body for that.
     It is used to enforce methods on the child classes.
+Interfaces:
+    Interface is something which is common in two systems. It is
+    like a contract that helps us know what type of methods
+    should be present in a class for that class to be able to work
+    with other classes.
