@@ -1,0 +1,17 @@
+PolyMorphism:
+    It's a mechanism in java that allows the methods
+    to behave differently depending upon which object
+    are using to call them. There are two types of
+    polymorphism dynamic and static.
+    Dynamic PolyMorphism is achieved through method overriding.
+    static PolyMorphism is achieved through method overloading.
+Why should we use PolyMorphism:
+    It allows us to avoid code repetition. If we have to call
+    multiple methods from multiple classes, and they are all sibling classes.
+
+ What do we need to apply PolyMorphism.
+    1)Inheritance.
+    2)Method overriding.
+    3)Type casting.
+    4)Loops.
+    5)Arrays.
