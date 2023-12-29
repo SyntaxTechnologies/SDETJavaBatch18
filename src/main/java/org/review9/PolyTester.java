@@ -12,7 +12,16 @@ public class PolyTester {
             a.speak();
             a.printInfo();
             System.out.println(a.getName());
-            //break till 8:55
+           /* if(a instanceof Dog){
+                Dog d2=(Dog)a;
+                d2.run();
+            }*/
+
         }
+        //Upcasting
+      /*  Animal a=animals[1];
+        //((Dog)a).run();
+        Dog d2=(Dog)a;
+        d2.run();*/
     }
 }

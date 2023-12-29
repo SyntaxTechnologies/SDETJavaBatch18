@@ -15,3 +15,7 @@ Why should we use PolyMorphism:
     3)Type casting.
     4)Loops.
     5)Arrays.
+=====================================================
+Interface:
+    Interfaces are like contracts which makes sure that everybody is on
+    the same page. They achieve this through abstraction.

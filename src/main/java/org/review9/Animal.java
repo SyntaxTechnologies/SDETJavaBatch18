@@ -26,9 +26,10 @@ public abstract class Animal {
 
 class Dog extends Animal{
     String breed;
+
+
     public Dog(String name,String color,int age,String breed){
         super(name,color,age);
-
         this.breed=breed;
     }
 
@@ -48,6 +49,11 @@ class Dog extends Animal{
         System.out.println(breed);
 
     }
+
+    void run(){
+        System.out.println("Dog Running");
+    }
+
 }
 
 class Cat extends Animal{
