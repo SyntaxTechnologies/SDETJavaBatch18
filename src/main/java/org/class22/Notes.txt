@@ -1,0 +1,10 @@
+Interface:
+    Interfaces are contracts. They are used to make sure that every
+    programmer is on the same page. The use abstraction for this
+    purpose.
+Encapsulation:
+    Encapsulation says create a class for every entity and define
+    methods related to that entity in that class instead of putting
+    everything inside the main method. It also says make your
+    fields private and define getter setter methods for those
+    fields.
