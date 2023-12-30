@@ -8,3 +8,7 @@ Encapsulation:
     everything inside the main method. It also says make your
     fields private and define getter setter methods for those
     fields.
+==========================================================
+Collections Framework:
+    is a collection of classes and interfaces which allows us to store
+    and manipulate large amounts of data easily.
