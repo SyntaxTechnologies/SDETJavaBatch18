@@ -1,11 +1,11 @@
 package org.class24;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Task3 {
     public static void main(String[] args) {
-        Map<String, Integer> employee=new HashMap<>();
+        Map<String, Integer> employee=new LinkedHashMap<>();
         employee.put("Samad",80000);
         employee.put("Amir",90000);
         employee.put("Amid",100000);
