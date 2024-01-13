@@ -12,6 +12,8 @@ public class E9AnaGram {
         Arrays.sort(s2Arr);
         System.out.println(Arrays.toString(s1Arr));
         System.out.println(Arrays.toString(s2Arr));
+        //to check if arrays are equals
+        System.out.println(Arrays.equals(s1Arr,s2Arr));
 
     }
 }
