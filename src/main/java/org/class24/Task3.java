@@ -19,7 +19,7 @@ public class Task3 {
                 salary=e.getValue();
             }
         }
-        System.out.println(empName+" "+salary);
+        System.out.println(empName+" =$"+salary);
 
     }
 }

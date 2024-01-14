@@ -1,0 +1,13 @@
+FileHandling:
+    Its the process of reading and writing
+    data to a file.
+If we want to read/write data to a file manually we need
+following:
+    1)Location of the file on the computer.
+    2) Navigate to the location.
+    3) A Special software that knows how to read/write
+    data to that file must be installed on the computer.
+Steps to create a new folder in your project:
+    1) Right click on your project.
+    2) Click on new-> Directory
+    3) Give name and hit enter
