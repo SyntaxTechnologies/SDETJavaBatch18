@@ -1,0 +1,71 @@
+Collections Framework:
+    Collections framework is simply a collection of classes and interfaces.
+    which help us store the data easily. The classes in this framework are
+    dynamic and have a lot of built-in methods that we can use to manipulate
+    the data.
+Main Interfaces
+1)List 2) Set 3) Map
+    List:
+    1) List can store duplicate numbers.
+    2) The remember the order in which you insert the data.
+    There are two main classes which implement the list interface
+    ArrayList and LinkedList.
+    ArrayList internally uses an array. Which makes accessing the elements
+    Fast but adding or removing the elements is super slow in arrayList.
+    On the other hand LinkedList uses a double linkedList internally.
+Sets:
+    Sets don't allow duplicate elements.
+    There are three main types of sets.
+    1)HashSet 2) LinkedHashSet 3) TreeSet.
+1)HashSet:
+    Pros:
+        Hashset is Fast.
+    Cons:
+        They don't remember the order in which we insert the elements.
+2) LinkedHashSet:
+    Pros:
+        They remember the order.
+    Cons:
+        A little slow as compared to Hashset.
+3) TreeSet:
+    Pros:
+        They always keep the data sorted.
+    Cons:
+    The insertion is very slow.
+Maps:
+    Maps Allow us to store the data in pairs(key,value).
+    There are three Main types of Maps.
+    1) HashMap 2) LinkedHashMap 3) TreeMap
+1)HashMap:
+    Pros:
+        Hashset is Fast.
+    Cons:
+        They don't remember the order in which we insert the elements.
+2) LinkedHashMap:
+    Pros:
+        They remember the order.
+    Cons:
+        A little slow as compared to HashMap.
+3) TreeMap:
+    Pros:
+        They always keep the data sorted.
+    Cons:
+    The insertion is very slow.
+File Handling:
+    Dealing with files reading/writing/copying/moving files using programming.
+    1) Location of the file
+    2) Navigate to the location/bring the file to the RAM.
+    3) A software/class that knows how to read/write data to that file.
+ Configuration files:
+    Configuration files are used to store sensitive configuration related information. Like URLS,
+    usernames, passwords etc.
+
+
+
+
+
+
+
+
+
+
