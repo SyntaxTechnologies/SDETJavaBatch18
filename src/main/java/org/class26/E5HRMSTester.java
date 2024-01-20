@@ -34,5 +34,21 @@ public class E5HRMSTester {
 
 
 
+
+
+        testData.forEach(x->{
+
+            webDriver.findElement(By.xpath("//b[normalize-space()='PIM']")).click();
+            webDriver.findElement(By.xpath("//a[@id='menu_pim_addEmployee']")).click();
+            webDriver.findElement(By.xpath("//input[@id='firstName']")).sendKeys(x.get("FirstName"));
+            webDriver.findElement(By.xpath("//input[@id='middleName']")).sendKeys(x.get("MiddleName"));
+            webDriver.findElement(By.xpath("//input[@id='lastName']")).sendKeys(x.get("LastName"));
+            webDriver.findElement(By.xpath("//input[@id='btnSave']")).click();
+        });
+
+
+
+
+
     }
 }
