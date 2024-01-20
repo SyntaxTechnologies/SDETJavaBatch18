@@ -52,4 +52,15 @@ public class ExcelReader {
         //Break till 11:50.
 
     }
+
+    public static List<Map<String,String>> read(String sheetName) throws IOException {
+        return read(Constants.EXCEL_FILE_PATH,sheetName);
+    }
+
+    public static List<Map<String,String>> read() throws IOException {
+        return read(Constants.EXCEL_FILE_PATH,"Sheet1");
+    }
+
+
+
 }

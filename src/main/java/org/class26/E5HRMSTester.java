@@ -33,11 +33,7 @@ public class E5HRMSTester {
         enterBtn.click();
 
 
-
-
-
         testData.forEach(x->{
-
             webDriver.findElement(By.xpath("//b[normalize-space()='PIM']")).click();
             webDriver.findElement(By.xpath("//a[@id='menu_pim_addEmployee']")).click();
             webDriver.findElement(By.xpath("//input[@id='firstName']")).sendKeys(x.get("FirstName"));
