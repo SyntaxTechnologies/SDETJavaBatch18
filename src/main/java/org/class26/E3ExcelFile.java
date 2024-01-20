@@ -48,6 +48,7 @@ public class E3ExcelFile {
             excelData.add(rowMap);
         }
 
+        System.out.println(excelData);
 
         //Break till 11:50.
 
