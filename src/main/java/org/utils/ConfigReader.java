@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigReader {
+
+    //1:53
     public static String read(String key) throws IOException {
       return read(key,Constants.CONFIG_FILE_PATH);
     }
