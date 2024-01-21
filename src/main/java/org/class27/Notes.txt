@@ -1,0 +1,3 @@
+Exception:
+    An unwanted behaviour which disrupts the normal
+    flow of your program.
