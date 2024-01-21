@@ -10,7 +10,7 @@ public class E1Exception {
         System.out.println("5");
        // System.out.println(10 / 0);
         try {
-           // System.out.println(10 / 0);
+
             String name=null;
             System.out.println(name.length());
         } catch (ArithmeticException e) {
